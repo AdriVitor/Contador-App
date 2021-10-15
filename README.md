@@ -3,7 +3,7 @@
 Projeto criado para estudos.
 
 ## Print da página
-<img src="../imgs/contador-img.jpg">
+![contador-img](https://user-images.githubusercontent.com/84886079/137419676-4d2a060d-0b2b-4cd2-81f9-43e63328abba.png)
 
 
 ## Tecnologias usadas
